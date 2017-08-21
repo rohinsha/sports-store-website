@@ -1,0 +1,70 @@
+{
+  "sports": [
+    {
+      "name": "Sports",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "Sports",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "Sports",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    }
+  ],
+  "running": [
+    {
+      "name": "Running",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "Running",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "Running",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    }
+  ],
+  "trekking": [
+    {
+      "name": "trekking",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "trekking",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "trekking",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    }
+  ],
+  "swimming": [
+    {
+      "name": "swimming",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "swimming",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    },
+    {
+      "name": "swimming",
+      "img": "http://localhost:8080/images/trend-1.jpg",
+      "price": 20
+    }
+  ]
+}

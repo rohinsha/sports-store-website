@@ -1,0 +1,19 @@
+{
+  "name": "sports",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "y",
+  "scripts": {
+    "start": "static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sports"
+  },
+  "keywords": [
+    "sports",
+    "task"
+  ],
+  "author": "rohinsha",
+  "license": "ISC"
+}
