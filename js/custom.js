@@ -24,18 +24,18 @@ jQuery(document).ready(function($) {
         });
     });
     $('#products a')[0].click()
+ $(".smallnav").click(function(){
 
-
-    function openNav() {
-        document.getElementById("mySidenav").style.width = "70%";
+ 
+        $("#mySidenav").css('width','70%');
         // document.getElementById("flipkart-navbar").style.width = "50%";
         document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
-    }
+    });
 
-    function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-        document.body.style.backgroundColor = "rgba(0,0,0,0)";
-    }
+     $(".closebtn").click(function(){
+        $("#mySidenav").css('width','0');
+        $("body").css('background-color','rgba(0,0,0,0)');
+     });
     $('#scroller').imageScroll();
     $('#scroller').imageScroll({
 
