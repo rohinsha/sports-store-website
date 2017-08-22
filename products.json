@@ -2,58 +2,78 @@
   "sports": [
     {
       "name": "Sports",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/img-1.jpeg",
       "price": 20
     },
     {
       "name": "Sports",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/img-2.jpeg",
       "price": 20
     },
     {
       "name": "Sports",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/img-3.jpeg",
+      "price": 20
+    },
+     {
+      "name": "Sports",
+      "img": "http://localhost:8080/images/img-2.jpeg",
       "price": 20
     }
   ],
   "running": [
     {
       "name": "Running",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/brownshoes.jpg",
       "price": 20
     },
     {
       "name": "Running",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/hiking shoes.jpg",
       "price": 20
     },
     {
       "name": "Running",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/football boots.jpg",
+      "price": 20
+    },
+    {
+      "name": "Running",
+      "img": "http://localhost:8080/images/football boots.jpg",
       "price": 20
     }
   ],
   "trekking": [
     {
       "name": "trekking",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/floaters.jpg",
       "price": 20
     },
     {
       "name": "trekking",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/img-4.jpeg",
       "price": 20
     },
     {
       "name": "trekking",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/img-1.jpeg",
+      "price": 20
+    },
+    {
+      "name": "trekking",
+      "img": "http://localhost:8080/images/img-4.jpeg",
       "price": 20
     }
   ],
   "swimming": [
     {
       "name": "swimming",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/img-2.jpeg",
+      "price": 20
+    },
+    {
+      "name": "swimming",
+      "img": "http://localhost:8080/images/football boots.jpg",
       "price": 20
     },
     {
@@ -63,7 +83,7 @@
     },
     {
       "name": "swimming",
-      "img": "http://localhost:8080/images/trend-1.jpg",
+      "img": "http://localhost:8080/images/football boots.jpg",
       "price": 20
     }
   ]

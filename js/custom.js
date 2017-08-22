@@ -36,6 +36,11 @@ jQuery(document).ready(function($) {
         $("#mySidenav").css('width','0');
         $("body").css('background-color','rgba(0,0,0,0)');
      });
+
+     $("#mySidenav a").click(function(){
+        $("#mySidenav").css('width','0');
+        $("body").css('background-color','rgba(0,0,0,0)');
+     });
     $('#scroller').imageScroll();
     $('#scroller').imageScroll({
 
