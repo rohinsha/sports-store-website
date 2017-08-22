@@ -16,7 +16,8 @@ jQuery(document).ready(function($) {
                     for (var i in data[key]) {
                         productList += '<div class="product-block">' +
                             '<img src="' + data[key][i].img + '" alt="">' +
-                            '<h4>' + data[key][i].name + '</h4>' + '</div>';
+                            '<h4>' + data[key][i].name + '</h4>'  + 
+                            '<h5>' + data[key][i].price + '</h5>'+ '</div>' ;
                     }
                     $("#" + key).html(productList)
                 })
